@@ -1,4 +1,4 @@
-langchain
+﻿langchain
 langchain-core
 langchain-community
 pypdf
@@ -6,7 +6,7 @@ pymupdf
 sentence-transformers
 faiss-cpu
 chromadb
-langchain-groq
+anthropic
 python-dotenv
 typesense
 langchain_openai

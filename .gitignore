@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated vector index
+faiss_store/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Source documents (not for version control)
+*.pdf
